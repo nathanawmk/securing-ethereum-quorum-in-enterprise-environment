@@ -1,0 +1,2 @@
+# securing-ethereum-quorum-in-enterprise-environment
+Securing Ethereum/Quorum Nodes correctly and adequately is critical to ensuring the integrity of the blockchain. i.e., Poor configuration of Geth could result in increased attack surface leading to malware compromising geth nodes. The rest is history. This paper proposes a secure, end to end and holistic network architecture which secures the geth nodes from unwanted access.
